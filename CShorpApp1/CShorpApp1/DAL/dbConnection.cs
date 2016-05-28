@@ -9,6 +9,7 @@ namespace CShorpApp1.DAL
 {
     class dbConnection
     {
+        SqlConnection cn = new SqlConnection("server=.;database=CollectionDB;Integrated Security=True;");
         
 
     }
