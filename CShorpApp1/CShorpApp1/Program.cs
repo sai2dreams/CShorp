@@ -11,6 +11,7 @@ namespace CShorpApp1
         static void Main(string[] args)
         {
             Console.WriteLine("hallo world");
+            Console.ReadLine();
         }
     }
 }
