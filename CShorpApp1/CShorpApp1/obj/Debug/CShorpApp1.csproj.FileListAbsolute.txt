@@ -1,1 +1,5 @@
 C:\Users\INVEN\Documents\GitHub\CShorp\CShorpApp1\CShorpApp1\bin\Debug\CShorpApp1.exe.config
+C:\Users\INVEN\Documents\GitHub\CShorp\CShorpApp1\CShorpApp1\bin\Debug\CShorpApp1.exe
+C:\Users\INVEN\Documents\GitHub\CShorp\CShorpApp1\CShorpApp1\bin\Debug\CShorpApp1.pdb
+C:\Users\INVEN\Documents\GitHub\CShorp\CShorpApp1\CShorpApp1\obj\Debug\CShorpApp1.exe
+C:\Users\INVEN\Documents\GitHub\CShorp\CShorpApp1\CShorpApp1\obj\Debug\CShorpApp1.pdb
